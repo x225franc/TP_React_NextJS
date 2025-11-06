@@ -1,13 +1,15 @@
----
 
 # TP Machine Next
 
-## Énoncé
+# Pour lancer le projet en 1 seule commande, utilisez :
+```
+npm run setup
+```
 
-Consommer l’API suivante :
+## - Énoncé
+
+#### Consommer l’API suivante :
 [https://nestjs-pokedex-api.vercel.app](https://nestjs-pokedex-api.vercel.app)
-
----
 
 ## Pages à réaliser
 
@@ -65,21 +67,22 @@ Consommer l’API suivante :
 
 ## Barème de notation
 
-| Critère                  | Points |
-| ------------------------ | ------ |
-| Page principale Pokedex  |        |
-| Page détail d’un Pokemon |        |
-| Compétences techniques   |        |
-| Scroll fetch             | 2      |
-| Bouton retour            | 1      |
-| Qualité du code          | 3      |
-| Filtre par nom           | 2      |
-| Infos du Pokémon         | 1      |
-| Logique du code          | 2      |
-| Filtre par type(s)       | 2      |
-| Évolutions               | 1      |
-| Gestion de la limit      | 1      |
-| Qualité de la page       | 2      |
-| Qualité de la page       | 3      |
+| Critère                     | Points |
+|------------------------------|--------|
+| **Page principale Pokédex**  |        |
+| Scroll fetch                 | 2      |
+| Filtre par nom               | 2      |
+| Filtre par type(s)           | 2      |
+| Gestion de la limit          | 1      |
+| Qualité de la page           | 3      |
+| **Page détail d'un Pokémon** |        |
+| Bouton retour                | 1      |
+| Infos du Pokémon             | 1      |
+| Évolutions                   | 1      |
+| Qualité de la page           | 2      |
+| **Compétences techniques**   |        |
+| Qualité du code              | 3      |
+| Logique du code              | 2      |
+
 
 ---
